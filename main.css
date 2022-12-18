@@ -1,0 +1,35 @@
+body {
+    background-color: var(--theme-color);
+    font-family: 'montserrat', sans-serif;
+}
+
+:root {
+    --theme-color: rgb(255, 252, 252);
+    --primary-color: #000000;
+    --text-color:  rgb(0, 0, 0);
+    --navbar-shallow-color: rgb(0, 0, 0);
+    --menu-mobile-background-color: #3a4460
+    
+}
+
+h1 {
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+}
+
+div {
+    color:rgb(5, 5, 5)
+}
+
+p {
+    text-align:center;
+}
+
